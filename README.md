@@ -35,6 +35,7 @@ This project implements a simple chess bot using Python and the Pygame library. 
    pip install pygame chess chess-engine
 
 Download Stockfish: Download the Stockfish chess engine from [stockfishchess.org](https://stockfishchess.org/). Extract the files and note the path to the stockfish executable.
+**Human speaking**: I recommend installing StockFish into the same directory the code is in, to make it easier.
 
 Chess Pieces Images: Place the chess piece images in a folder named pieces within the project directory. Ensure the images follow this naming convention:
 
